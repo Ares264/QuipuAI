@@ -4,7 +4,7 @@ Proyecto desarrollado por el **Grupo Ardillas**.
 
 ## Integrantes
 * Ccente Morales, Rony
-* Perez Lapa, Jesus
+* Perez Lapa, Jesus Ruther
 * Gutierrez Avalos, Denis
 
 ---
