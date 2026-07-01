@@ -1,4 +1,19 @@
-# React + Vite
+# Quipu AI
+
+Proyecto desarrollado por el **Grupo Ardillas**.
+
+## Integrantes
+* Ccente Morales, Rony
+* Perez Lapa, Jesus
+* Gutierrez Avalos, Denis
+
+---
+
+## Sobre el Proyecto (Tecnología)
+
+This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+
+*(... y aquí puedes dejar el resto del texto en inglés que ya venía por defecto ...)*
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
